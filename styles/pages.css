@@ -1,0 +1,34 @@
+.pages {
+    padding: 10px 0;
+    height: 160px;
+}
+
+.pages__container {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background: #ECECEC;
+}
+
+.navigation {
+    display: flex;
+    justify-content: center;
+}
+
+.nav-up {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-decoration: none;
+    color: #AC9286;
+}
+
+.nav-up__icon {
+    margin: 0;
+}
+
+.nav-up__text {
+    margin: 0;
+    font-style: italic;
+}

@@ -1,0 +1,22 @@
+html {
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    line-height: 21px;
+    font-family: 'Times New Roman', Times, serif;
+    background: #000;
+}
+
+body {
+    background: #ECECEC;
+    width: 960px;
+    margin: 0 auto;
+}
+
+.container {
+    width: 960px;
+}
+
+.icon {
+    margin: 10px;
+}

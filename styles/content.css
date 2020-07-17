@@ -1,0 +1,14 @@
+.content {
+    display: flex;
+    background: #FDFDFD;
+    justify-content: center;
+}
+
+.content__container {
+    max-width: 650px;
+    color: #777;
+    text-align: center;
+    font-weight: 500;
+    line-height: 17px;
+    margin: 10px 0 5px;
+}
